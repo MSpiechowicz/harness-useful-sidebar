@@ -11,7 +11,7 @@ Live token charts and persistent session history for [Oh My Pi (OMP)](https://gi
 
 For OMP, see how quickly your current session is using tokens, what your previous session consumed, and how much account allowance remains—without leaving the terminal. Token usage stays attributed to the provider and model that handled each request, even when you switch models. Session history and dashboard preferences persist across restarts. The independent Claude Code mod records native reported request usage and displays fresh native rate-limit observations when available; it does not use OMP's provider accounting or provide account-specific quota-change history.
 
-https://github.com/user-attachments/assets/270a1d90-0227-4814-acae-95a03c84ffab
+https://github.com/user-attachments/assets/2e20cfa4-0960-40c0-a33a-59c566a8a97e
 
 <sub>A 40-second tour with sound: the live token rate, this session against the last, per-model details, plan limits,
 the nine themes, and both hosts. Made with demo data. [Download the full-quality 4K video](docs/video/harness-useful-sidebar-tour.mp4?raw=true) (21 MB).</sub>
