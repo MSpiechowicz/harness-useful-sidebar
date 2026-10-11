@@ -14,7 +14,7 @@ For OMP, see how quickly your current session is using tokens, what your previou
 https://github.com/user-attachments/assets/2e20cfa4-0960-40c0-a33a-59c566a8a97e
 
 <sub>A 40-second tour with sound: the live token rate, this session against the last, per-model details, plan limits,
-the nine themes, and both hosts. Made with demo data. [Download the full-quality 4K video](docs/video/harness-useful-sidebar-tour.mp4?raw=true) (21 MB).</sub>
+the nine themes, and both hosts. Made with demo data. [Download the full-quality 4K video](https://raw.githubusercontent.com/MSpiechowicz/harness-useful-sidebar/main/docs/video/harness-useful-sidebar-tour.mp4) (21 MB).</sub>
 
 **Your recorded usage history stays on your machine.** Session token records and OMP's observed quota changes are saved in local SQLite databases, not a hosted dashboard service. OMP and Claude Code use physically separate data directories and JSON settings. See [Settings and privacy](#settings-and-privacy) for file locations and exactly what is stored.
 
