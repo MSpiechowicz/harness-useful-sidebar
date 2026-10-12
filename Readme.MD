@@ -51,6 +51,17 @@ Inside either host, use `/useful-sidebar view compact` for the overview or `/use
 
 **What it is not:** exact subscription billing attribution, a billing forecast, a universal quota API, or a replacement for host authentication. OMP's `claude`/`anthropic` provider view is **not** standalone Claude Code session accounting: OMP-provider token counts do not equal Claude Code session counts. Token totals and account percentages are different measurements; percentages are never added across providers or distinct allowance windows. Unsupported or missing account usage is shown as unavailable, and unmeasured changes stay hidden—not presented as an invented zero.
 
+## Harness Useful family
+
+Harness Sidebar is one of a set of local tools for coding-agent harnesses:
+
+| Project | What it is |
+| --- | --- |
+| [harness-useful-sidebar](https://github.com/MSpiechowicz/harness-useful-sidebar) | This project: live token charts and persistent session history for OMP and Claude Code in a terminal sidebar. |
+| [harness-useful-desktop](https://github.com/MSpiechowicz/harness-useful-desktop) | Your coding-agent CLI in a native desktop window. |
+| [harness-useful-dashboard](https://github.com/MSpiechowicz/harness-useful-dashboard) | Token usage and cost across your AI coding tools, in one local app. |
+| [harness-useful-skills](https://github.com/MSpiechowicz/harness-useful-skills) | Skills for OMP and Claude Code that take a natural-language request to reviewed, verified work. |
+
 ## Requirements
 
 | Component | Requirement |
