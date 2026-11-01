@@ -61,6 +61,9 @@ Harness Sidebar is one of a set of local tools for coding-agent harnesses:
 | [harness-useful-desktop](https://github.com/MSpiechowicz/harness-useful-desktop) | Your coding-agent CLI in a native desktop window. |
 | [harness-useful-dashboard](https://github.com/MSpiechowicz/harness-useful-dashboard) | Token usage and cost across your AI coding tools, in one local app. |
 | [harness-useful-skills](https://github.com/MSpiechowicz/harness-useful-skills) | Skills for OMP and Claude Code that take a natural-language request to reviewed, verified work. |
+| [harness-useful-memory](https://github.com/MSpiechowicz/harness-useful-memory) | A local MCP server that gives your coding agents one shared project memory. |
+| [harness-useful-knowledge](https://github.com/MSpiechowicz/harness-useful-knowledge) | A local MCP server that lets your coding agents search the project documentation you import. |
+| [harness-useful-code](https://github.com/MSpiechowicz/harness-useful-code) | A local MCP server with a code graph: where code is defined, who uses it and what a change breaks. |
 
 ## Requirements
 
